@@ -14,11 +14,13 @@ The project is divided into several components:
 - Initialization: The GuestBook servlet initializes with a couple of default entries to demonstrate functionality.
 - CRUD Operations: Users can create new entries, read all entries, update existing entries, and delete entries.
 - User Interface: The servlets generate HTML dynamically to provide a simple and intuitive interface for interacting with the guest book.
+  
 **How It Works**
 - Adding an Entry: Users can navigate to the "Add Comment" page, fill out the form, and submit it to add a new entry to the guest book.
 - Editing an Entry: Each entry in the guest book has an "Edit" link. Clicking this link takes the user to a form where they can update the name and message of the entry.
 - Deleting an Entry: Each entry also has a "Delete" link. Clicking this link removes the entry from the guest book.
 - Viewing Entries: The main guest book page displays all entries in a table format, with options to edit or delete each entry.
+  
 **How to Run**
 - Setup: Ensure you have a Java Servlet container (e.g., Apache Tomcat) set up.
 = Deployment: Deploy the application on your servlet container.
