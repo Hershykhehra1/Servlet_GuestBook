@@ -18,7 +18,7 @@ The project is divided into several components:
   
 **How to Run**
 - Setup: Ensure you have a Java Servlet container (e.g., Apache Tomcat) set up.
-= Deployment: Download/Import the project into your IDE and select run on server.
+= Deployment: Download/Import the project into your IDE and select "Run on Server".
 - Access: Navigate to the application URL (e.g., http://localhost:8080/GuestBook/GuestBook) to interact with the guest book.
 
 This project is a straightforward example of using Java Servlets to create a web application with basic CRUD functionality, providing a foundation for more complex web applications.
